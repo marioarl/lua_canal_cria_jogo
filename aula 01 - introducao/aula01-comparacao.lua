@@ -5,6 +5,7 @@
     Maior ou igual  >=
     Menor ou igual  <=
     Igualdade       ==
+    Diferente       ~=
 ]]
 
 print(2 > 3)
